@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Manager_Cinema", "Manager_Cinema\Manager_Cinema.vcxproj", "{F9417E5B-4D99-434A-B75C-3DCE349A89CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Debug|x64.ActiveCfg = Debug|x64
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Debug|x64.Build.0 = Debug|x64
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Debug|x86.Build.0 = Debug|Win32
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Release|x64.ActiveCfg = Release|x64
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Release|x64.Build.0 = Release|x64
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Release|x86.ActiveCfg = Release|Win32
+		{F9417E5B-4D99-434A-B75C-3DCE349A89CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD7F65D9-9C93-4373-A8B4-D016B39FB40E}
+	EndGlobalSection
+EndGlobal
